@@ -35,4 +35,4 @@ crontab -e
 
 2 频繁更新解析记录，只要A记录IP不发生改变，CloudXNS并不会接受变更，查阅 **获取解析记录列表** 中可证实更新时间并未发生改变。无需担心因频繁更新IP而导致的DNS查询更新不及时。
 
-3 亦可使用[CloudXNS Python SDK](https://www.cloudxns.net/Support/detail/id/680.html) ，代码更为简洁。
+3 亦可使用 [CloudXNS Python SDK](https://www.cloudxns.net/Support/detail/id/680.html) ，代码更为简洁。
