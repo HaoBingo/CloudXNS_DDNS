@@ -14,7 +14,7 @@ cd CloudXNS_DDNS
 sudo pip install requests
 ```
 
-* 修改 ddns.py 中的***self.api_key self.secret_key self.domain***
+* 修改 ddns.py 中的 ***self.api_key*** ***self.secret_key*** ***self.domain***
 * 登录CloudXNS后访问 [此处](https://www.cloudxns.net/AccountManage/apimanage.html) 获取API
 
 ## 使用
